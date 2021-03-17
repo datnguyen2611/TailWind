@@ -1,3 +1,3 @@
-<div class="md:container md:mx-auto px-4 bg-blue-200">
+<div class="container block sm:mx-auto px-4 bg-blue-light rounded-full">
   <p>ahii</p>
 </div>
